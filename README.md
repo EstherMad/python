@@ -1,1 +1,1 @@
-# python
+I am Esther Madianga, actually doing my Master in advanced computer and application, i am middlewhile doing my specialisation in data analysis, data science using python,nosql(mongo db) , sql(postgresql),hadoop,power bi, etc 
